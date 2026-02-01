@@ -1,0 +1,1 @@
+print("assembly-core INSERT")
