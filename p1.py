@@ -1,1 +1,0 @@
-print("assembly-core FIX")
